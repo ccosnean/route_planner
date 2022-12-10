@@ -1,0 +1,6 @@
+{
+  "appTitle": "route_planner",
+  "@appTitle": {
+    "description": "Route planner, an app that shows route between cities."
+  }
+}
